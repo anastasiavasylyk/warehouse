@@ -9,7 +9,8 @@ Warehouse Application is an application which has a lot of useful functionality 
 5. Install Apache Tomcat v8.5.83 or later
 6. [Configure Apache Tomcat in JDK](#configure-apache-tomcat)
 7. Click on debug on the toolbar to use the application
-8. ## 👩‍💻 Technologies
+
+## 👩‍💻 Technologies
 Application based on Spring Framework v5.3.17
 ### **Web**
 * Apache Tomcat v8.5.83 as servlet
